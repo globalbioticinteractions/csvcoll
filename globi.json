@@ -1,6 +1,6 @@
 { 
   "format": "rss",
   "citation": "Consortium of Small Vertebrate Collections",
-  "url": "https://csvcoll.org/portal/webservices/dwc/rss.xml",
+  "url": "https://csvcoll.org/portal/collections/datasets/rsshandler.php",
   "shouldResolveReferences": false
 }
