@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/csvcoll.svg)](https://travis-ci.com/globalbioticinteractions/csvcoll) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/csvcoll)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/csvcoll) 
+[![GloBI review by Elton](https://github.com/globalbioticinteractions/csvcoll/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/csvcoll/actions) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/csvcoll)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/csvcoll) 
 
 ## Consortium of Small Vertebrate Collections 
 
